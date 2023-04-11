@@ -79,9 +79,6 @@ footer{
 /*Media Queries*/
 /*Tablet Design*/
 @media screen and (max-width: 675px){
-    body{
-        background-color: red;
-    }
     main{
         height: 93.5vh;
         width: 95vw;
@@ -98,9 +95,6 @@ footer{
 }
 /*Phone Design*/
 @media screen and (max-width: 506px){
-    body{
-        background-color: black;
-    }
     main{
         height: 100vh;
         width: 80%;
